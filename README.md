@@ -24,7 +24,8 @@ I got the datasets from:
 
 <a href="https://data.worldbank.org"><code>Country’s demographic and economic metrics such as Population, Gross Domestic Product using API</code></a>
 
-<a href="https://github.com/Swapppyy/Data-Analysis-on-Olympics-dataset-and-Countries-Economic-Metrics/blob/main/Data%20Analysis%20on%20Olympics%20dataset.ipynb" target="_blank">View My Jupyter Notebook</a>
+My Notebook: 
+<a href="https://github.com/Swapppyy/Data-Analysis-on-Olympics-dataset-and-Countries-Economic-Metrics/blob/main/Data%20Analysis%20on%20Olympics%20dataset.ipynb" target="_blank"><code>View My Jupyter Notebook</code></a>
 
 ## Data Analysis Results
 
