@@ -13,16 +13,19 @@ To examine the complex relationship between sport and gender by evaluating femal
 Hence, the aim of this project is to answer below questions:
 
 •	What countries have the highest female representation and what countries are the lowest?<br>
+
 •	What is the recent percentage of women athletes in the Olympics and how did it change over time?<br>
+
 •	What are the top five countries in terms of No of medals achieved throughout the Olympics history and what is the percentage of female representation in these teams?<br>
+
 •	Does country GDP and expenditure on sport influence the number of medals achieved? Is there any correlation between spending on sport and the number of medals?<br>
 
 Take a look at the dataset sources and my Jupyter Notebook to understand step by step analysis.
 
-I got the datasets from:
-<a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results"><code>120 Years of Olympic History</code></a>
+I got the datasets from:<br>
+<a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results"><code>1. 120 Years of Olympic History</code></a>
 
-<a href="https://data.worldbank.org"><code>Country’s demographic and economic metrics such as Population, Gross Domestic Product using API</code></a>
+<a href="https://data.worldbank.org"><code>2. Country’s demographic and economic metrics such as Population, Gross Domestic Product using API</code></a>
 
 My Notebook: 
 <a href="https://github.com/Swapppyy/Data-Analysis-on-Olympics-dataset-and-Countries-Economic-Metrics/blob/main/Data%20Analysis%20on%20Olympics%20dataset.ipynb" target="_blank"><code>View My Jupyter Notebook</code></a>
