@@ -32,17 +32,17 @@ My Notebook:
 
 ## Data Analysis Results
 
-###Trend of Male/Female Participants:
+### Trend of Male/Female Participants:
 <p align="center">
   <img width="100%" src="1.png" />
 </p>
 
-###Medals vs Income level Analysis:
+### Medals vs Income level Analysis:
 <p align="center">
   <img width="100%" src="2.png" />
 </p>
 
-###Economic standing vs Total no. of medals achieved:
+### Economic standing vs Total no. of medals achieved:
 <p align="center">
   <img width="100%" src="3.png" />
 </p>
