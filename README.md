@@ -1,4 +1,4 @@
-## Data Analysis on Olympics Dataset
+## Data Analysis on Economics metrics of countries and Olympics 
 
 ### Introduction:
 
